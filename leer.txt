@@ -1,0 +1,5 @@
+ 
+npm init --yes //archivo js
+npm install express//instalacion de libreria
+
+npm run desarrollo //para ejecutar
